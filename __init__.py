@@ -1,0 +1,1 @@
+from flask_simple_auth.simple_auth import SimpleAuth
